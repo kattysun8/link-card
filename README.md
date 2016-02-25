@@ -19,7 +19,7 @@
 
 - *Typefaces*: `Georgia`, `Dosis`
 - *Text sizes*: `1.5rem`, `1.125rem`, `1rem`, `0.875rem`
-- *Colours:* `#785439`, `#cabdb2`, `#512200`, `#9a816d`, `#dcd4cd`, `#f0eee8`
+- *Colours:* `(brown)#785439`, `(medium beige)#cabdb2`, `#512200`, `(lightbrown)#9a816d`, `(lightbeige)#dcd4cd`, `#f0eee8`
 - *Border widths:* `3px`, `2px`
 - *Border radii:* `3px`, `8px`
 
