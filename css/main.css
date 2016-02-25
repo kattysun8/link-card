@@ -1,0 +1,49 @@
+html {
+  box-sizing: border-box;
+  font-family: Georgia;
+}
+
+body {
+  background-color: #f0eee8;
+  border-color: #512200;
+}
+
+a {
+  display: block;
+  background-color: #dcd4cd;
+  text-decoration: none;
+  padding: 1.5em;
+  border-radius: 8px;
+  border: 2.5px solid #9a816d;
+  color: #785439;
+}
+
+dt, dd {
+  display: inline-block;
+  width: 45%;
+  margin: 0;
+}
+
+dd {
+  font-style: italic;
+}
+h1 {
+  font-family: Dosis;
+  color: #785439;
+}
+
+.btn {
+  font-family: Dosis;
+  font-style: bold;
+}
+
+.btn-wrap {
+  background-color: #785439;
+  border-radius: 3px;
+  padding: 0.5em;
+  margin: 2.5em;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+}
